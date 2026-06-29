@@ -1,7 +1,7 @@
 ## Hey, I'm Nayeem 👇
 
 M.Eng Applied AI @ TH Deggendorf · Research Assistant
-Prev: TCS · Now: Robotics, Edge AI, YOLO pipelines
+Prev: TCS · Now: GenAI, Edge AI, YOLO pipelines
 
 ---
 

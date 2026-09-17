@@ -2,7 +2,7 @@
 
 Training models that are just as confused as I am.
 
-MLOps and AI infrastructure. I spent two years running production DevOps at Tata Consultancy Services — Terraform-provisioned Kubernetes on EKS, 50+ microservices, GitLab and Jenkins pipelines that took deployment from 48 hours to under 30 minutes. Now I'm at TH Deggendorf applying the same standards to ML systems, so they end up in production instead of in a notebook.
+MLOps and AI infrastructure. I spent two years running production DevOps at Tata Consultancy Services, Terraform-provisioned Kubernetes on EKS, 50+ microservices, GitLab and Jenkins pipelines that took deployment from 48 hours to under 30 minutes. Now I'm at TH Deggendorf applying the same standards to ML systems, so they end up in production instead of in a notebook.
 
 Finishing an M.Eng in Applied AI for Digital Production Management (Oct 2026). Looking for MLOps, AI infrastructure, or ML platform roles in Germany.
 

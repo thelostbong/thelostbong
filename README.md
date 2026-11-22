@@ -1,18 +1,18 @@
 <p align="center">
-  <a href="https://github.com/thelostbong"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:05070A,100:E9B44C&height=220&section=header&text=Nayeemuddin%20Mohammed&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=MLOps%20%2B%20Edge%20AI%20Engineer%20%C2%B7%20ex-TCS&descSize=24&descAlignY=64" width="100%" alt="Nayeemuddin Mohammed, MLOps and Edge AI Engineer" /></a>
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1600&color=E9B44C&background=05070A&center=true&vCenter=true&width=854&height=64&lines=%3E+mlops+and+edge+ai.;%3E+i+ship+ml+and+keep+it+running.;%3E+yolo+on+a+pi%2C+results+in+the+mes.;%3E+deploys%3A+48+hours+to+30+minutes." width="100%" alt="MLOps and edge AI. I ship ML and keep it running." />
+  <a href="https://github.com/thelostbong"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:05070A,100:992023&height=220&section=header&text=Nayeemuddin%20Mohammed&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=MLOps%20%2B%20Edge%20AI%20Engineer%20%C2%B7%20ex-TCS&descSize=24&descAlignY=64" width="100%" alt="Nayeemuddin Mohammed, MLOps and Edge AI Engineer" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1600&color=FFFFFF&background=05070A&center=true&vCenter=true&width=854&height=64&lines=%3E+mlops+and+edge+ai.;%3E+i+ship+ml+and+keep+it+running.;%3E+yolo+on+a+pi%2C+results+in+the+mes.;%3E+deploys%3A+48+hours+to+30+minutes." width="100%" alt="MLOps and edge AI. I ship ML and keep it running." />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nayeemuddin-mohammed-03/"><img src="https://img.shields.io/badge/LinkedIn-E9B44C?style=for-the-badge&labelColor=05070A" alt="LinkedIn" /></a>
-  <a href="https://nayeemuddin.de"><img src="https://img.shields.io/badge/Portfolio-E9B44C?style=for-the-badge&labelColor=05070A" alt="Portfolio" /></a>
-  <a href="mailto:nayeemuddin.mohammed@stud.th-deg.de"><img src="https://img.shields.io/badge/Email-E9B44C?style=for-the-badge&labelColor=05070A" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/nayeemuddin-mohammed-03/"><img src="https://img.shields.io/badge/LinkedIn-992023?style=for-the-badge&labelColor=05070A" alt="LinkedIn" /></a>
+  <a href="https://nayeemuddin.de"><img src="https://img.shields.io/badge/Portfolio-992023?style=for-the-badge&labelColor=05070A" alt="Portfolio" /></a>
+  <a href="mailto:nayeemuddin.mohammed@stud.th-deg.de"><img src="https://img.shields.io/badge/Email-992023?style=for-the-badge&labelColor=05070A" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/48h_to_30min-deploy_time-E9B44C?style=for-the-badge&labelColor=05070A" alt="Deployment time cut from 48 hours to under 30 minutes" />
-  <img src="https://img.shields.io/badge/99.99%25-uptime,_10k%2B_devices-E9B44C?style=for-the-badge&labelColor=05070A" alt="99.99% uptime across 10,000+ edge devices" />
-  <img src="https://img.shields.io/badge/under_1s-edge_to_MES-E9B44C?style=for-the-badge&labelColor=05070A" alt="Edge to MES round trip under one second" />
+  <img src="https://img.shields.io/badge/48h_to_30min-deploy_time-992023?style=for-the-badge&labelColor=05070A" alt="Deployment time cut from 48 hours to under 30 minutes" />
+  <img src="https://img.shields.io/badge/99.99%25-uptime,_10k%2B_devices-992023?style=for-the-badge&labelColor=05070A" alt="99.99% uptime across 10,000+ edge devices" />
+  <img src="https://img.shields.io/badge/under_1s-edge_to_MES-992023?style=for-the-badge&labelColor=05070A" alt="Edge to MES round trip under one second" />
 </p>
 
 <br />
@@ -77,15 +77,15 @@ nayeem = {
       <h3><a href="https://github.com/thelostbong/AI-Based-Automated-Assembly-Inspection-with-MES-Integration">Assembly Inspection + MES</a></h3>
       <sub><b>research assistantship · Raspberry Pi 5</b></sub>
       <p>Three USB cameras and a YOLOv12s ONNX model feed a rule set that resolves 16 LEGO build variants. Each result posts to Tulip MES as a record.</p>
-      <img src="https://img.shields.io/badge/95%25-mAP@50,_precision,_recall-E9B44C?style=flat-square&labelColor=05070A" alt="95% mAP@50, precision and recall" />
-      <img src="https://img.shields.io/badge/16-build_variants-E9B44C?style=flat-square&labelColor=05070A" alt="16 build variants" />
+      <img src="https://img.shields.io/badge/95%25-mAP@50,_precision,_recall-992023?style=flat-square&labelColor=05070A" alt="95% mAP@50, precision and recall" />
+      <img src="https://img.shields.io/badge/16-build_variants-992023?style=flat-square&labelColor=05070A" alt="16 build variants" />
       <p><code>YOLOv12s</code> <code>ONNX</code> <code>Flask</code> <code>FastAPI</code> <code>Tulip MES</code></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/thelostbong/Automated-Defect-Detection-using-Edge-AI">Edge AI Defect Detection</a></h3>
       <sub><b>two-stage detector · ESP32-P4</b></sub>
       <p>Colour and missing-piece defects on LEGO shuttles. Two YOLOv11n models, INT8, running on the NPU with no cloud and no GPU.</p>
-      <img src="https://img.shields.io/badge/stage_1-recall_1.0,_0.995_mAP@0.5-E9B44C?style=flat-square&labelColor=05070A" alt="Stage 1 recall 1.0 at 0.995 mAP@0.5 on a 178-image held-out split" />
+      <img src="https://img.shields.io/badge/stage_1-recall_1.0,_0.995_mAP@0.5-992023?style=flat-square&labelColor=05070A" alt="Stage 1 recall 1.0 at 0.995 mAP@0.5 on a 178-image held-out split" />
       <p><code>YOLOv11n</code> <code>INT8</code> <code>ESP-IDF</code> <code>UVC</code></p>
     </td>
   </tr>
@@ -94,7 +94,7 @@ nayeem = {
       <h3><a href="https://github.com/thelostbong/Fashion-article-image-generation">Fashion Image Generation</a></h3>
       <sub><b>built with NKD</b></sub>
       <p>German product copy in, catalogue-ready image out. Four chained models with CLIP scoring as the quality gate. About 90% cheaper than traditional photography, 42 s per image.</p>
-      <img src="https://img.shields.io/badge/87.6%25-first_attempt_success-E9B44C?style=flat-square&labelColor=05070A" alt="87.6% first-attempt success under human review" />
+      <img src="https://img.shields.io/badge/87.6%25-first_attempt_success-992023?style=flat-square&labelColor=05070A" alt="87.6% first-attempt success under human review" />
       <p><code>MarianMT</code> <code>Phi-3 Mini</code> <code>FLUX.1-schnell</code> <code>CLIP</code></p>
     </td>
     <td width="50%" valign="top">
@@ -115,7 +115,7 @@ nayeem = {
       <h3><a href="https://github.com/thelostbong/Fetal_Health_Classification_using_Machine_Learning">Fetal Health Classification</a></h3>
       <sub><b>cardiotocography · three classes</b></sub>
       <p>SMOTE sits inside the training pipeline so nothing leaks into the test set.</p>
-      <img src="https://img.shields.io/badge/94.6%25-random_forest_accuracy-E9B44C?style=flat-square&labelColor=05070A" alt="Random Forest 94.6% accuracy" />
+      <img src="https://img.shields.io/badge/94.6%25-random_forest_accuracy-992023?style=flat-square&labelColor=05070A" alt="Random Forest 94.6% accuracy" />
       <p><code>scikit-learn</code> <code>imbalanced-learn</code></p>
     </td>
   </tr>
@@ -138,7 +138,7 @@ nayeem = {
 <p align="center"><b>Hiring for MLOps, AI infrastructure or ML platform work in Germany? Write to me.</b></p>
 
 <p align="center">
-  <a href="mailto:nayeemuddin.mohammed@stud.th-deg.de"><img src="https://img.shields.io/badge/say_hi-E9B44C?style=for-the-badge&labelColor=05070A" alt="Email me" /></a>
+  <a href="mailto:nayeemuddin.mohammed@stud.th-deg.de"><img src="https://img.shields.io/badge/say_hi-992023?style=for-the-badge&labelColor=05070A" alt="Email me" /></a>
 </p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:E9B44C,100:05070A&height=90&section=footer&text=I%20ship%20ML%20and%20keep%20it%20running.&fontSize=26&fontColor=FFFFFF&fontAlignY=52" width="100%" alt="I ship ML and keep it running." /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:992023,100:05070A&height=90&section=footer&text=I%20ship%20ML%20and%20keep%20it%20running.&fontSize=26&fontColor=FFFFFF&fontAlignY=52" width="100%" alt="I ship ML and keep it running." /></p>
